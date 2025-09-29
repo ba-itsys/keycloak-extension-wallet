@@ -59,7 +59,7 @@
     <!-- tooling -->
     <lombok.version>1.18.36</lombok.version>
     <auto-service.version>1.1.1</auto-service.version>
-    <spotless.version>2.44.3</spotless.version>
+    <spotless.version>3.0.0</spotless.version>
 
     <!-- SonarCloud -->
     <sonar.organization>opdt</sonar.organization>
