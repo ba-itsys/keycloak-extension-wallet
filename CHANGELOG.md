@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.13.1](https://github.com/ba-itsys/keycloak-extension-oid4vp/compare/v0.13.0...v0.13.1) (2026-09-07)
+
+
+### Bug Fixes
+
+* multiple security review fixes ([2fca089](https://github.com/ba-itsys/keycloak-extension-oid4vp/commit/2fca08921ff32877e003afc6bbac6a0f37e29725))
+
+
+### Dependencies
+
+* **deps:** bump keycloak.version from 26.7.1 to 26.7.3 ([#166](https://github.com/ba-itsys/keycloak-extension-oid4vp/issues/166)) ([4b23355](https://github.com/ba-itsys/keycloak-extension-oid4vp/commit/4b233559e975e372a5a41e775353e6245cef3817))
+* **deps:** bump org.keycloak.testframework:keycloak-test-framework-bom ([#167](https://github.com/ba-itsys/keycloak-extension-oid4vp/issues/167)) ([65566b3](https://github.com/ba-itsys/keycloak-extension-oid4vp/commit/65566b34087770c538e98934f5bfd66a4c340372))
+
 ## [0.13.0](https://github.com/ba-itsys/keycloak-extension-oid4vp/compare/v0.12.0...v0.13.0) (2026-09-03)
 
 
